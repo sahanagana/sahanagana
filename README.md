@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanagana)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanagana&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Currently working on:
