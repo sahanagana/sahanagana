@@ -5,7 +5,7 @@
 
 
 ### Currently working on:
-[![Readme Card](https://github.com/sahanagana/webscraping-and-automatic-data-entry-program)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=webscraping-and-automatic-data-entry-program&theme=solarized-light)](https://github.com/sahanagana/webscraping-and-automatic-data-entry-program)
 <!--
 **sahanagana/sahanagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
