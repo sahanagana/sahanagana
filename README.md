@@ -5,8 +5,8 @@
 
 
 ### Currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=webscraping-and-automatic-data-entry-program&theme=solarized-light)](https://github.com/sahanagana/webscraping-and-automatic-data-entry-program)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=2playersnakeapp&theme=solarized-light)](https://github.com/sahanagana/2playersnakeapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=js-calculator-app&theme=solarized-light)](https://github.com/sahanagana/webscraping-and-automatic-data-entry-program)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=sahanagana.github.io&theme=solarized-light)](https://github.com/sahanagana/2playersnakeapp)
 <!--
 **sahanagana/sahanagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
