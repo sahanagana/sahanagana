@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanagana&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanagana&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=js-calculator-app&theme=vue)](https://github.com/sahanagana/webscraping-and-automatic-data-entry-program)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=sahanagana.github.io&theme=vue)](https://github.com/sahanagana/2playersnakeapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=js-calculator-app&theme=vue)](https://github.com/sahanagana/JS-Calculator-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=sahanagana.github.io&theme=vue)](https://github.com/sahanagana/sahanagana.github.io)
 <!--
 **sahanagana/sahanagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
