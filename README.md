@@ -2,11 +2,16 @@
 I'm Sahana, a freshman at UT Austin studying computer science.
 
 ### My interests are:
-- web development
+- web development, UI/UX
 - cybersecurity (specifically pentesting, networking and cryptography)
 - machine learning and NLP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanagana&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+### Other Interests:
+- painting and other visual arts/graphic design
+- fitness
+- reading (particularly classics)
 
 
 ### Currently working on:
