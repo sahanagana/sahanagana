@@ -15,7 +15,7 @@ I'm Sahana, a sophomore at UT Austin studying computer science.
 
 
 ### Currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=text-editor&theme=vue)](https://github.com/sahanagana/cloudsim-surrogate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=cloudsim-surrogate&theme=vue)](https://github.com/sahanagana/cloudsim-surrogate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahanagana&repo=sahanagana.github.io&theme=vue)](https://github.com/sahanagana/sahanagana.github.io)
 <!--
 **sahanagana/sahanagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
