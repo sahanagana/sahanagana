@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Sahana, a sophomore at UT Austin studying computer science.
+I'm Sahana, a junior at UT Austin studying computer science.
 
 ### My interests are:
 - web development, UI/UX
