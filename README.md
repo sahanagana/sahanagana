@@ -2,7 +2,7 @@
 I'm Sahana. C:
 
 ### My interests are:
-- infrasturcture development & design
+- infrastructure development & design
 - cybersecurity, both offensive and security engineering
 - machine learning & computer vision
 
